@@ -4,7 +4,7 @@
 
 My name is Lucas and I currently reside in Brazil 🇧🇷. I have been working as a software developer for 7 years now and specialize in frontend development. In addition to frontend development, I also dabble in backend development using Nodejs 🌐.
 
-As a person, I am very helpful and love to share my knowledge with others. I find joy in learning new things and then passing on that knowledge to those around me 📚. Whether it's through code reviews or teaching others how to use a new tool, I am always willing to lend a helping hand 🤝.
+Personally, I am very helpful and love to share my knowledge with others. I find joy in learning new things and then passing on that knowledge to those around me 📚. Whether it's through code reviews or teaching others how to use a new tool, I am always willing to lend a helping hand 🤝.
 
 ### 💻 Technologies
 
