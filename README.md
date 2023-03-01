@@ -2,15 +2,15 @@
 
 ---
 
-Hello, my name is Lucas and I currently reside in Brazil 🇧🇷. I have been working as a software developer for 7 years now and specialize in frontend development. In addition to frontend development, I also dabble in backend development using Nodejs 🌐.
+My name is Lucas and I currently reside in Brazil 🇧🇷. I have been working as a software developer for 7 years now and specialize in frontend development. In addition to frontend development, I also dabble in backend development using Nodejs 🌐.
 
 As a person, I am very helpful and love to share my knowledge with others. I find joy in learning new things and then passing on that knowledge to those around me 📚. Whether it's through code reviews or teaching others how to use a new tool, I am always willing to lend a helping hand 🤝.
-
-<br />
 
 ### 💻 Technologies
 
 ---
+
+<br />
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -73,8 +73,20 @@ As a person, I am very helpful and love to share my knowledge with others. I fin
 
 <br />
 
+### 🔍 Find me
+
+---
+
+<br />
+
 <a href="https://www.linkedin.com/in/lucasgomesdky/" target="_blank">
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+</a>
+
+<a href="mailto:lucasgomes.dky@gmail.com">
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 </a>
